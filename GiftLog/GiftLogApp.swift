@@ -1,11 +1,5 @@
-//
-//  GiftLogApp.swift
-//  GiftLog
-//
-//  Created by Jihan Khan on 6/8/26.
-//
-
 import SwiftUI
+import SwiftData
 
 @main
 struct GiftLogApp: App {
@@ -13,5 +7,8 @@ struct GiftLogApp: App {
         WindowGroup {
             ContentView()
         }
+        .modelContainer(for: GiftEntry.self)
+        .windowStyle(.titleBar)
+        .windowToolbarStyle(.unified)
     }
 }
