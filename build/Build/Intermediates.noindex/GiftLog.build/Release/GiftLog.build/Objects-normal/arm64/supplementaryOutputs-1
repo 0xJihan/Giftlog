@@ -1,0 +1,12 @@
+{
+  "/Users/0xjihan/StudioProjects/GiftLog/GiftLog/Models/GiftEntry.swift" : {
+    "abi-baseline-json" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/GiftLog.abi.json",
+    "const-values" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/GiftLog-primary.swiftconstvalues",
+    "dependencies" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/GiftLog-primary.d",
+    "diagnostics" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/GiftLog-primary.dia",
+    "objc-header" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/GiftLog-Swift.h",
+    "swiftdoc" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/GiftLog.swiftdoc",
+    "swiftmodule" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/GiftLog.swiftmodule",
+    "swiftsourceinfo" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/GiftLog.swiftsourceinfo"
+  }
+}

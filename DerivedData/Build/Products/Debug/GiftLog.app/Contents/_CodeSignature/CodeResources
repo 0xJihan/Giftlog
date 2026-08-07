@@ -3,17 +3,26 @@
 <plist version="1.0">
 <dict>
 	<key>files</key>
-	<dict/>
+	<dict>
+		<key>Resources/AppIcon.icns</key>
+		<data>
+		N/e8uK6OWXZ5Ubf6X7Db+k98HDE=
+		</data>
+		<key>Resources/Assets.car</key>
+		<data>
+		5rklxFj7O17+DUcMQ7LkS4qwBz8=
+		</data>
+	</dict>
 	<key>files2</key>
 	<dict>
 		<key>MacOS/GiftLog.debug.dylib</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			EysIQe91W3fLbe3URM+wQ10CzAM=
+			BQRicGW67H+tRES+egiavAaQ0FM=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"132b0841ef755b77cb6dedd444cfb0435d02cc03"</string>
+			<string>cdhash H"0504627065baec7fad4444be7a089abc0690d053"</string>
 		</dict>
 		<key>MacOS/__preview.dylib</key>
 		<dict>
@@ -23,6 +32,20 @@
 			</data>
 			<key>requirement</key>
 			<string>cdhash H"b5078f406c36375e624e67cf747113e1f62425eb"</string>
+		</dict>
+		<key>Resources/AppIcon.icns</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wN/4+xAqRADRM9w7zQ1FR8zCorRsxGeZEoylBmmYCwI=
+			</data>
+		</dict>
+		<key>Resources/Assets.car</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			N60g1BksKcxRDgJ3t3yPc8dzfqGO46KsUCDGzhu9b8g=
+			</data>
 		</dict>
 	</dict>
 	<key>rules</key>

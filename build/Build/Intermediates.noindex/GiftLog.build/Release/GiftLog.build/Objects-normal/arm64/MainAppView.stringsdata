@@ -1,0 +1,144 @@
+{
+  "source": "/Users/0xjihan/StudioProjects/GiftLog/GiftLog/Views/MainAppView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Possible Duplicate Entry",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 107
+        }
+      },
+      {
+        "comment": "",
+        "key": "Toggle Privacy Mode (⌘P)",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 56
+        }
+      },
+      {
+        "comment": "",
+        "key": "Focus Search (⌘F)",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 63
+        }
+      },
+      {
+        "comment": "",
+        "key": "Export Entries (⌘E)",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 88
+        }
+      },
+      {
+        "comment": "",
+        "key": "Privacy Mode Active",
+        "location": {
+          "startingColumn": 54,
+          "startingLine": 51
+        }
+      },
+      {
+        "comment": "",
+        "key": "Privacy Mode Off",
+        "location": {
+          "startingColumn": 78,
+          "startingLine": 51
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 61
+        }
+      },
+      {
+        "comment": "",
+        "key": "Export as CSV...",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 69
+        }
+      },
+      {
+        "comment": "",
+        "key": "Export as JSON...",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 75
+        }
+      },
+      {
+        "comment": "",
+        "key": "Export Printable PDF Summary...",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 83
+        }
+      },
+      {
+        "comment": "",
+        "key": "Export",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 86
+        }
+      },
+      {
+        "comment": "",
+        "key": "Continue (Save Anyway)",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 108
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 112
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 138
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 142
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 146
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 150
+        }
+      }
+    ]
+  },
+  "version": 1
+}

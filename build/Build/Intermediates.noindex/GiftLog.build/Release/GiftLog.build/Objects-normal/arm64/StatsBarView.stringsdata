@@ -1,0 +1,40 @@
+{
+  "source": "/Users/0xjihan/StudioProjects/GiftLog/GiftLog/Views/Components/StatsBarView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Show financial metrics (⌘P)",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 84
+        }
+      },
+      {
+        "comment": "",
+        "key": "Hide financial metrics for privacy (⌘P)",
+        "location": {
+          "startingColumn": 72,
+          "startingLine": 84
+        }
+      },
+      {
+        "comment": "",
+        "key": "Show Stats",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 70
+        }
+      },
+      {
+        "comment": "",
+        "key": "Hide Stats",
+        "location": {
+          "startingColumn": 60,
+          "startingLine": 70
+        }
+      }
+    ]
+  },
+  "version": 1
+}

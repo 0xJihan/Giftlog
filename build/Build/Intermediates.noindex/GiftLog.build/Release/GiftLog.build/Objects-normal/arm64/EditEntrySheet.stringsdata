@@ -1,0 +1,96 @@
+{
+  "source": "/Users/0xjihan/StudioProjects/GiftLog/GiftLog/Views/Components/EditEntrySheet.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Edit Gift Entry",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 28
+        }
+      },
+      {
+        "comment": "",
+        "key": "Guest Name",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 38
+        }
+      },
+      {
+        "comment": "",
+        "key": "Name",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 41
+        }
+      },
+      {
+        "comment": "",
+        "key": "Amount",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "Amount",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 47
+        }
+      },
+      {
+        "comment": "",
+        "key": "Address",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 62
+        }
+      },
+      {
+        "comment": "",
+        "key": "Address",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 65
+        }
+      },
+      {
+        "comment": "",
+        "key": "Note (Optional)",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 70
+        }
+      },
+      {
+        "comment": "",
+        "key": "Note",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 73
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 81
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save Changes",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 88
+        }
+      }
+    ]
+  },
+  "version": 1
+}

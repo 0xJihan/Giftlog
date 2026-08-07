@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/0xjihan/StudioProjects/GiftLog/build/Build/Products/Release/GiftLog.app/Contents/MacOS/GiftLog'
+relocations:     []
+...

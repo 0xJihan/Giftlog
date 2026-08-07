@@ -1,0 +1,81 @@
+{
+  "" : {
+    "const-values" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/GiftLog-primary.swiftconstvalues",
+    "dependencies" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/GiftLog-primary.d",
+    "diagnostics" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/GiftLog-primary.dia",
+    "emit-module-dependencies" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/GiftLog-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/GiftLog-primary-emit-module.dia",
+    "pch" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/GiftLog-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/GiftLog-primary.swiftdeps"
+  },
+  "/Users/0xjihan/StudioProjects/GiftLog/GiftLog/ContentView.swift" : {
+    "index-unit-output-path" : "/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/ContentView.o"
+  },
+  "/Users/0xjihan/StudioProjects/GiftLog/GiftLog/GiftLogApp.swift" : {
+    "index-unit-output-path" : "/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/GiftLogApp.o",
+    "llvm-bc" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/GiftLogApp.bc",
+    "object" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/GiftLogApp.o"
+  },
+  "/Users/0xjihan/StudioProjects/GiftLog/GiftLog/Models/GiftEntry.swift" : {
+    "index-unit-output-path" : "/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/GiftEntry.o",
+    "llvm-bc" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/GiftEntry.bc",
+    "object" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/GiftEntry.o"
+  },
+  "/Users/0xjihan/StudioProjects/GiftLog/GiftLog/Services/ExportService.swift" : {
+    "index-unit-output-path" : "/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/ExportService.o",
+    "llvm-bc" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/ExportService.bc",
+    "object" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/ExportService.o"
+  },
+  "/Users/0xjihan/StudioProjects/GiftLog/GiftLog/Utilities/SmartAmountParser.swift" : {
+    "index-unit-output-path" : "/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/SmartAmountParser.o",
+    "llvm-bc" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/SmartAmountParser.bc",
+    "object" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/SmartAmountParser.o"
+  },
+  "/Users/0xjihan/StudioProjects/GiftLog/GiftLog/Utilities/String+Extensions.swift" : {
+    "index-unit-output-path" : "/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/String+Extensions.o",
+    "llvm-bc" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/String+Extensions.bc",
+    "object" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/String+Extensions.o"
+  },
+  "/Users/0xjihan/StudioProjects/GiftLog/GiftLog/ViewModels/GiftLogViewModel.swift" : {
+    "index-unit-output-path" : "/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/GiftLogViewModel.o",
+    "llvm-bc" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/GiftLogViewModel.bc",
+    "object" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/GiftLogViewModel.o"
+  },
+  "/Users/0xjihan/StudioProjects/GiftLog/GiftLog/Views/Components/EditEntrySheet.swift" : {
+    "index-unit-output-path" : "/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/EditEntrySheet.o",
+    "llvm-bc" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/EditEntrySheet.bc",
+    "object" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/EditEntrySheet.o"
+  },
+  "/Users/0xjihan/StudioProjects/GiftLog/GiftLog/Views/Components/GiftEntryFormView.swift" : {
+    "index-unit-output-path" : "/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/GiftEntryFormView.o",
+    "llvm-bc" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/GiftEntryFormView.bc",
+    "object" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/GiftEntryFormView.o"
+  },
+  "/Users/0xjihan/StudioProjects/GiftLog/GiftLog/Views/Components/RecentEntriesListView.swift" : {
+    "index-unit-output-path" : "/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/RecentEntriesListView.o",
+    "llvm-bc" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/RecentEntriesListView.bc",
+    "object" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/RecentEntriesListView.o"
+  },
+  "/Users/0xjihan/StudioProjects/GiftLog/GiftLog/Views/Components/StatsBarView.swift" : {
+    "index-unit-output-path" : "/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/StatsBarView.o",
+    "llvm-bc" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/StatsBarView.bc",
+    "object" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/StatsBarView.o"
+  },
+  "/Users/0xjihan/StudioProjects/GiftLog/GiftLog/Views/Components/UndoToastView.swift" : {
+    "index-unit-output-path" : "/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/UndoToastView.o",
+    "llvm-bc" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/UndoToastView.bc",
+    "object" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/UndoToastView.o"
+  },
+  "/Users/0xjihan/StudioProjects/GiftLog/GiftLog/Views/MainAppView.swift" : {
+    "index-unit-output-path" : "/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/MainAppView.o",
+    "llvm-bc" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/MainAppView.bc",
+    "object" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/MainAppView.o"
+  },
+  "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/0xjihan/StudioProjects/GiftLog/build/Build/Intermediates.noindex/GiftLog.build/Release/GiftLog.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  }
+}

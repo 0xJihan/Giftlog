@@ -5,6 +5,49 @@
 	<key>logFormatVersion</key>
 	<integer>12</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>C28F5BA2-39F3-4E54-B97B-D665D995529D</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C28F5BA2-39F3-4E54-B97B-D665D995529D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GiftLog project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GiftLog</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Cleaning project GiftLog with scheme GiftLog and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>807810117.39527404</real>
+			<key>timeStoppedRecording</key>
+			<real>807810117.54629099</real>
+			<key>title</key>
+			<string>Cleaning project GiftLog with scheme GiftLog and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>C28F5BA2-39F3-4E54-B97B-D665D995529D</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
